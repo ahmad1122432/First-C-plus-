@@ -5,4 +5,4 @@ Author: Ahmad Ansari
 <br>
 C++ Programs.
 <b>
-This is Ahmad From Mandi Bahauldin
+This is Ahmad From Mandi Bahauldin (Pakistan)
