@@ -24,6 +24,6 @@ int main()
     cout<<"your grade is F"<<endl;
 
     else 
-    cout<<"Enter ivaild marks"<<endl;
+    cout<<"you enter ivaild marks"<<endl;
     return 0;
 }
